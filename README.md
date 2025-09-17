@@ -127,6 +127,18 @@ Smart Interview Agent
 - Architecture: Multi-agent system with conversation management
 - Cost: Under $15 for complete development and testing
 
+## Project Images: 
+
+<img width="1920" height="1293" alt="Smart Interview Agent · Streamlit" src="https://github.com/user-attachments/assets/fd6ce787-48b3-4d62-a7e3-5e1050b6ef6b" />
+
+<img width="1920" height="1106" alt="Smart Interview Agent · Streamlit (1)" src="https://github.com/user-attachments/assets/0a32d534-0e16-45de-afe1-94900f567889" />
+
+<img width="1920" height="1352" alt="Smart Interview Agent · Streamlit (2)" src="https://github.com/user-attachments/assets/f19ce65e-7087-4dae-a687-fb5ea8efe49f" />
+
+<img width="1920" height="1446" alt="Smart Interview Agent · Streamlit (3)" src="https://github.com/user-attachments/assets/64ee11d8-8d5e-40aa-bf12-9edf04101b72" />
+
+
+
 # 📝 License
 
 MIT License – see LICENSE
