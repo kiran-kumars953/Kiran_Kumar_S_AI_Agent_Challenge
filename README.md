@@ -53,5 +53,68 @@ streamlit run app.py
 
 Open your browser at 👉 http://localhost:8501
 
+## 🏗️ Project Structure
+```bash
+Smart Interview Agent
+├── app.py                     # Main Streamlit application
+├── agents/
+│   ├── __init__.py
+│   └── interview_agent.py     # Core AI interview logic
+├── utils/
+│   ├── __init__.py
+│   ├── conversation_manager.py # Session & conversation management
+│   └── report_generator.py    # AI-powered report generation
+├── requirements.txt           # Python dependencies
+├── .env.example               # Environment variables template
+└── README.md                  # This file
+```
 
+## 🎯 Core Components
+## 🧑‍💻 InterviewAgent
 
+1. Generates contextual interview questions
+2. Evaluates responses with scoring
+3. Adapts questioning based on conversation flow
+
+## 💬 ConversationManager
+
+1. Tracks session history
+2. Manages state & analytics
+3. Supports data export
+
+## 📑 ReportGenerator
+
+1. Builds professional candidate reports
+2. Detailed scoring breakdown
+3. Provides hiring recommendations
+
+## 📊 Evaluation Criteria
+
+1. Technical
+2. Knowledge depth
+3. Problem solving
+4. Code/system design skills
+5. Communication clarity
+
+## Soft Skills
+
+1. Teamwork & collaboration
+2. Leadership & adaptability
+3. Cultural fit
+
+## 🌐 Deployment
+
+## Option 1: Streamlit Cloud (recommended)
+
+1. Push code to GitHub
+2. Connect repository on Streamlit Cloud
+3. Add your OpenAI API key in Secrets
+4. Deploy 🚀
+
+# 📝 License
+
+MIT License – see LICENSE
+
+# 👨‍💻 Developer
+
+Created for the AI Agent Development Challenge by KIRAN KUMAR S
