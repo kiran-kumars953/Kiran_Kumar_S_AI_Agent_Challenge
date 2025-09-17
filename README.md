@@ -111,6 +111,22 @@ Smart Interview Agent
 3. Add your OpenAI API key in Secrets
 4. Deploy 🚀
 
+## Key Features Implemented:
+
+- Dynamic AI question generation based on job requirements
+- Real-time candidate evaluation with scoring
+- Multiple interview formats: Technical, Behavioral, Mixed
+- Comprehensive interview reports with hiring recommendations
+- Professional Streamlit interface with intuitive design
+- Deployed on Streamlit Cloud with full functionality
+
+## Technical Stack:
+
+- AI Framework: OpenAI GPT-4o-mini for intelligent conversations
+- UI: Streamlit for rapid deployment and professional interface
+- Architecture: Multi-agent system with conversation management
+- Cost: Under $15 for complete development and testing
+
 # 📝 License
 
 MIT License – see LICENSE
